@@ -5,7 +5,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package aster_storefront
+ * @package aster_stsorefront
  */
 
 $aster_storefront_theme_data = wp_get_theme();
